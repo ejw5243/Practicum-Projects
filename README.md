@@ -5,5 +5,12 @@ Each project contains the project purpose, the python libraries used, and a high
 
 | Project Name      | Description |
 | ----------- | ----------- |
-| Test 1      | Text       |
-| Test 2   | Text        |
+| Data Preprocessing      | Text       |
+| Exploratory Data Analysis   | Text        |
+| Statistical Data Analysis   | Text        |
+| Video Game Profitability Case Study    | Text      |
+| Machine Learning   | Text        |
+| Supervised Learning   | Text        |
+| Machine Learning for Business Applications   | Text        |
+|  Machine Learning Case Study  | Text        |
+

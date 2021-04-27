@@ -3,7 +3,7 @@ A collection of all the data analysis / data science projects completed during t
 
 ## Contents
 
-* **[Data Analysis and Visualization]**(https://github.com/ejw5243/Practicum-Projects/blob/main/Data%20Analysis%20and%20Visualization/Risk%20Analysis%20for%20Bank%20Customer%20Loans.ipynb)
+* **[Data Analysis and Visualization](https://github.com/ejw5243/Practicum-Projects/blob/main/Data%20Analysis%20and%20Visualization/Risk%20Analysis%20for%20Bank%20Customer%20Loans.ipynb)**
   * Risk Analysis for Bank Customer Loans: Analysis of the leading factors that cause bank customers to default on loans and which result in the greatest risk.
   * Vehicle Price - Exploratory Analysis: Exploraratory analysis of a vehicle's price based on various information available from online vehicle advertisements. Data visualization performed using Pandas and Seaborn.
   * Phone Plan Profitability Analysis: Analysis of the potential profitability of two new mobile phone plans based on existing customer data.

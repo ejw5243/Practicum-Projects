@@ -11,7 +11,7 @@ A collection of all the data analysis / data science projects completed during t
 
 * **Machine Learning**
   * [Customer Phone Plan Recommendation](https://github.com/ejw5243/Practicum-Projects/blob/main/Machine%20Learning/Customer%20Phone%20Plan%20Recommendation%20Model.ipynb): A model that predicts which phone plan a customer will select based on monthly minute, message, and data usage. The model recommends the best plan for future customer's.
-  * Supervised Learning: Prediction of Customer Turnover: Predicts whether a customer will leave his or her current contract. Evaluates the effect of class imbalance and utilizes upsampling to address the class imbalance.
+  * [Supervised Learning: Prediction of Customer Turnover](https://github.com/ejw5243/Practicum-Projects/blob/main/Machine%20Learning/Supervised%20Learning_Prediction%20of%20Customer%20Turnover.ipynb): Predicts whether a customer will leave his or her current contract. Evaluates the effect of class imbalance and utilizes upsampling to address the class imbalance.
   * Oil Well Regional Case Study: Using oil well production data from various regions, a model is created to predict the most profitable locations for future oil wells. Bootstrapping is used to statistically predict the profit ranges to evaluate the risk associated with the most profitable locations.
   * Gold Extraction Prediction Model: Predicts the success of gold extraction from gold ore based on known parameters in the cleaning process. 
 

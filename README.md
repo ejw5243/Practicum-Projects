@@ -16,6 +16,6 @@ A collection of all the data analysis / data science projects completed during t
   * Gold Extraction Prediction Model: Predicts the success of gold extraction from gold ore based on known parameters in the cleaning process. 
 
 * **Miscellaneous**
-  * Data Masking Algorithm: Proposes and validates a data masking technique to protect customer personal information.
+  * [Data Masking Algorithm](https://github.com/ejw5243/Practicum-Projects/blob/main/Miscellaneous/Data%20Masking%20Algorithm.ipynb): Proposes and validates a data masking technique to protect customer personal information.
 
 
